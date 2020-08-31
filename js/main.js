@@ -1,8 +1,8 @@
 
 //import $ from '/jquery';
 //import 'bootstrap';
-//import '../css/bootstrap.css';
-import '../css/styles.css';
+//import '../src/css/bootstrap.css';
+import '../src/css/styles.css';
 import  { Journal } from './journal.js';
 import Entry from './entry.js';
 
